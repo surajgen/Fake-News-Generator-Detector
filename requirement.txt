@@ -1,0 +1,7 @@
+
+
+### ✅ Final `requirements.txt`
+
+```txt
+transformers
+gradio
